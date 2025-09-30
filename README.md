@@ -7,9 +7,12 @@
 ## **About me**
 
 - Soy una persona proactiva en busca de nuevas oportunidades laborales.
-- Me recibí de Técnico Analista Programador hace poco. 
 - Me gusta tanto el desarrollo backend como el front-end.
-- Mi sitio web es: https://portafolio-web-eosin.vercel.app/
+- Sitio web personal: https://portafolio-web-eosin.vercel.app/
+
+## **Studies**
+
+
 
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
