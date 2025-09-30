@@ -45,6 +45,7 @@
 [<img src="/imgs/chatgpt.png" alt="chatgpt" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/Diagrams.net_Logo.svg.png" alt="drawio" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/photoshop.png" alt="photoshop" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="/imgs/indesign.png" alt="indesing" width="100">](https://docs.python.org/3/library/index.html)
       
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
