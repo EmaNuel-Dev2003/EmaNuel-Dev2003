@@ -38,6 +38,7 @@
 [<img src="/imgs/git_logo.png" alt="git" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/VS_Logo.png" alt="vs" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="/imgs/62bcc24124954158f4c5feac_NetBeans-Logo.wine.png" alt="netbeans" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/postman_macos_bigsur_icon_189815.png" alt="postman" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/React.js_logo-512.webp" alt="react" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/tailwind_Logo.png" alt="tailwind" width="100">](https://docs.python.org/3/library/index.html)
