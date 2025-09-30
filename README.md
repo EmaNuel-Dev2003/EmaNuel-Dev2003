@@ -38,6 +38,7 @@
 [<img src="/imgs/git_logo.png" alt="git" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/VS_Logo.png" alt="vs" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="/imgs/postman_macos_bigsur_icon_189815.png" alt="postman" width="100">](https://docs.python.org/3/library/index.html)
       
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
