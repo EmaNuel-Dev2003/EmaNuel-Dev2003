@@ -24,7 +24,7 @@
 ## **Skills**
 ### Lenguajes de programación y herramientas:
 
-
+[<img src="/imgs/nodejs.png" alt="node.js" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/JS.png" alt="JS" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/HTML5_logo_and_wordmark.svg.png" alt="html" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/css_logo.png" alt="css" width="100">](https://docs.python.org/3/library/index.html)
