@@ -34,6 +34,7 @@
 [<img src="/imgs/gx_logo.png" alt="genexus" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/mysql.png" alt="mysql" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/microsoft-sql-server.png" alt="sqlserver" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="/imgs/Postgresql_elephant.svg.png" alt="postgresql" width="100">](https://docs.python.org/3/library/index.html)
 
 
       
