@@ -51,7 +51,12 @@
 - Diagramas de flujo
 - Pseudocódigo
 - Programación Orientada a Objetos (POO)
-- UML: Diagramas de Clases - Diagramas de secuencia - Diagramas de actividades - Diagramas de casos de uso - Diagramas de paquetes
+- UML:  
+Diagramas de Clases
+Diagramas de secuencia
+Diagramas de actividades
+Diagramas de casos de uso
+ Diagramas de paquetes
 - Modelo Entidad Relación (MER)
 - Modelo Relacional (MR)
 - Patrones de diseño
