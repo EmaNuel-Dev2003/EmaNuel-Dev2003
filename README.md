@@ -11,6 +11,8 @@
 - Sitio web personal: https://portafolio-web-eosin.vercel.app/
 
 ## **Studies**
+- 2022 - 2025: Instituto CEI Maldonado (Universidad Claeh) - Título: Analista Programador.
+- 2021: Instituto CEI Maldonado - Título: Operador Diseño Gráfico. 
 
 
 
