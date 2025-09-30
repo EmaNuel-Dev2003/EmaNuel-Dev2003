@@ -10,9 +10,6 @@
 	
 ## **About me**
 
-<picture> <img align="right" src="" width = 250px></picture>
-
-<br>
 - Me gusta aprender tanto del desarrollo frontend tanto como del backend.
 - 
 - 
