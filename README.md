@@ -13,12 +13,11 @@
 <picture> <img align="right" src="" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Me gusta aprender tanto del desarrollo frontend tanto como del backend.
+- 
+- 
+- 
+- 
 
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
