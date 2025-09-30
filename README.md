@@ -4,14 +4,11 @@
 </p>
 
 
-
-
-	
 ## **About me**
 
 - Soy una persona proactiva en busca de nuevas oportunidades laborales.
 - Me recibí de Técnico Analista Programador hace poco. 
-- Me gusta aprender tanto del desarrollo backend como del front-end.
+- Me gusta tanto el desarrollo backend como el front-end.
 - Mi sitio web es: https://portafolio-web-eosin.vercel.app/
 
 <!--
