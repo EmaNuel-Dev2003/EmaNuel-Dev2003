@@ -48,8 +48,20 @@
 [<img src="/imgs/indesign.png" alt="indesing" width="100">](https://docs.python.org/3/library/index.html)
 
 ### Conocimientos técnicos:
-
-      
+- Diagramas de flujo
+- Pseudocódigo
+- Programación Orientada a Objetos (POO)
+- UML
+- Diagrmas de Clases 
+- Diagramas de secuencia
+- Diagramas de actividades
+- Diagramas de casos de uso
+- Diagramas de paquetes
+- Modelo Entidad Relación (MER)
+- Modelo Relacional (MR)
+- Patrones de diseño
+- Metodologías ágiles (Scrum)
+- Documentación
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
