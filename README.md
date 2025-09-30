@@ -52,7 +52,7 @@
 - Pseudocódigo
 - Programación Orientada a Objetos (POO)
 - UML
-- Diagrmas de Clases 
+- Diagramas de Clases 
 - Diagramas de secuencia
 - Diagramas de actividades
 - Diagramas de casos de uso
