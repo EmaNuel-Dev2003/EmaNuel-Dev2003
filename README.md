@@ -69,8 +69,10 @@ la lógica de la programación en la resolución de problemas sencillos; aprend�
 (for, for each, while, do while) y los subsistemas (funciones). Con JavaScrip (Nodejs) además de aplicar los principios ya mencionados, también trabajé con 
 variables, tipos de datos, listas y arrays asociativos en la creación de sistemas por consola. 
 
-#### Usabilidad y Accecibilidad Web
-Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí cómo diseña y estructurar un página web haciendo 
+#### Frontend
+Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí cómo diseñar y estructurar una página web con HTML y CSS, haciendo uso de las buenas
+prácticas como por ejemplo; no mezclar el código de etiquetas con los estílos, estructuras bien el proyecto separado los componentes en carpetas, diseño 
+responsive, diseño accecible (diseño de página legible para personas con pocos recursos en cuanto a tecnología) y usable (diseño intuitivo y fácil de usar).
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
