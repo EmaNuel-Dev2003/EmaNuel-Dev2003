@@ -50,7 +50,7 @@
 [<img src="/imgs/photoshop.png" alt="photoshop" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/indesign.png" alt="indesing" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/512px-DaVinci_Resolve_Studio.png" alt="DavinciResolve" width="100">](https://docs.python.org/3/library/index.html)
-<a href="/imgs/nodejs-image.webp" target="blank"><img align="center" src="" alt="linkedin" height="50" width="50" /></a>
+<a src="/imgs/nodejs-image.webp" target="blank"><img align="center" src="" alt="linkedin" height="50" width="50" /></a>
 
 ### Conocimientos técnicos:
 - Diagramas de flujo
