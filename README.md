@@ -49,6 +49,7 @@
 [<img src="/imgs/Diagrams.net_Logo.svg.png" alt="drawio" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/photoshop.png" alt="photoshop" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="/imgs/indesign.png" alt="indesing" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="/imgs/512px-DaVinci_Resolve_Studio.png" alt="DavinciResolve" width="100">](https://docs.python.org/3/library/index.html)
 
 ### Conocimientos técnicos:
 - Diagramas de flujo
