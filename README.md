@@ -91,7 +91,11 @@ Por otro lado, recibí un taller de objetos, en el cuál también además de los
 actividades, diagrama de secuencias, diagrama de paquetes, entre otros. 
 
 ### Proyecto final integrador
-
+Como proyecto final de tesis para obtener el título de Analista Programador, participé
+en el diseño y desarrollo de un sistema prototipo a medida para la empresa de software
+PHI IT. Durante un período de seis meses, trabajé junto a mi equipo en la creación de
+una solución informática que permite a los usuarios extraer y comparar productos
+provenientes de diferentes tiendas online.
 
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
