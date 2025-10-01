@@ -89,8 +89,7 @@ Como proyecto académico para este taller realicé una web ficticia sobre una ag
 Aprendí los principios de la pogramación orientada objetos trabajando con el lenguaje de programación C# en el econsistema .NET (Visual Studio Community 2022),
 realicé aplicaciones de consola, aplicaciones de escritorio (WinForms) y aplicaciones web, en donde apliqué los conceptos de encapsulación, herencia, polimorfismo,
 agregación y composición, estos mismos conceptos los aprendí conjuntamente con UML en la creación e interpretación de diagramas de clases. 
-Por otro lado, recibí un taller de objetos, en el cuál  además de los diagramas de clases, utilicé UML para crear diagramas de caso de usos, diagramas de
-actividades, diagrama de secuencias, diagrama de paquetes, entre otros. 
+
 
 #### Proyecto final integrador
 Como proyecto final de tesis para obtener el título de Analista Programador, participé
