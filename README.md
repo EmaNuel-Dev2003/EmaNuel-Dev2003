@@ -63,8 +63,9 @@
 - Modelo Entidad Relación (MER)
 - Modelo Relacional (MR)
 - APIs REST
-- Arquitectura de Sofware
+- Arquitectura de sotfware
 - Patrones de diseño
+- Ingeniería del software
 - Metodologías ágiles (Scrum)
 - Documentación
 
