@@ -73,7 +73,7 @@ variables, tipos de datos, listas y arrays asociativos en la creación de sistem
 Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí cómo diseñar y estructurar una página web con HTML y CSS, haciendo uso de las buenas
 prácticas como por ejemplo; no mezclar el código de etiquetas con los estílos, estructuras bien el proyecto separado los componentes en carpetas, diseño 
 responsive, diseño accecible (diseño de página legible para personas con pocos recursos en cuanto a tecnología) y usable (diseño intuitivo y fácil de usar).
-Como proyecto académico para este taller realicé una web ficticia sobre una agencia inmobiliaria: 
+Como proyecto académico para este taller realicé una web ficticia sobre una agencia inmobiliaria: https://github.com/EmaNuel-Dev2003/P-P---Web-De-Inmobiliaria
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
