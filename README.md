@@ -83,7 +83,11 @@ Como proyecto académico para este taller realicé una web ficticia sobre una ag
 
 #### Programación Orientada a Objetos (POO)
 Aprendí los principios de la pogramción orientada objetos trabajando con el lenguaje de programación C# en el econsistema .NET (Visual Studio Community 2022),
-en donde realicé aplicaciones de consola, aplicaciones de escritorio (WinForms) 
+realicé aplicaciones de consola, aplicaciones de escritorio (WinForms) y aplicaciones web, en donde apliqué los conceptos de encapsulación, herencia, polimorfismo,
+agregación y composición, estos mismos conceptos los aprendí conjuntamente con UML en la creación e interpretación de diagramas de clases. 
+Por otro lado, recibí un taller de objetos, en el cuál también además de los diagramas de clases, utilicé UML para crear diagramas de caso de usos, diagramas de
+actividades, diagrama de secuencias, diagrama de paquetes, entre otros. 
+
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
