@@ -59,8 +59,11 @@
 - Diagramas de actividades
 - Diagramas de casos de uso
 - Diagramas de paquetes
+- Base de datos
 - Modelo Entidad Relación (MER)
 - Modelo Relacional (MR)
+- APIs REST
+- Arquitectura de Sofware
 - Patrones de diseño
 - Metodologías ágiles (Scrum)
 - Documentación
