@@ -72,7 +72,7 @@
 ## Academic Profile
 
 #### Principios básicos
-A lo largo de mi carrera como estudiante, aprendí  los conceptos básicos de la programación, comenzé con los diagramas de flujo y pseudocódigo para incorporar 
+A lo largo de mi carrera como estudiante aprendí  los conceptos básicos de la programación, comenzé con los diagramas de flujo y pseudocódigo, para incorporar 
 la lógica de la programación en la resolución de problemas sencillos; aprendí a utilizar las estructuras condicionales (if, else if, swich case), los búcles 
 (for, for each, while, do while) y los subsistemas (funciones). En segundo lugar, utilicé JavaScript para aplicar los principios ya mencionados, y también para trabajar con 
 variables, tipos de datos, listas y arrays asociativos en la creación de sistemas por consola con Nodejs. 
