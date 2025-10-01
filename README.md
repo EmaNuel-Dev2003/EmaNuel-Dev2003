@@ -14,7 +14,8 @@
 ## **About me**
 
 - Soy una persona proactiva en busca de nuevas oportunidades laborales.
-- Me gusta tanto el desarrollo backend como el front-end.
+- Desarrollo backend y frontend
+- Además de programar me gusta el diseño gráfico y la edición de videos.
 - Sitio web personal: https://portafolio-web-eosin.vercel.app/
 
 ## **Studies**
