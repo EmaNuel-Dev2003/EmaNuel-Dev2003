@@ -79,7 +79,7 @@ variables, tipos de datos, listas y arrays asociativos en la creación de sistem
 
 #### Frontend (usabilidad y accecibilidad web)
 Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí cómo diseñar y estructurar una página web con HTML y CSS, haciendo uso de las buenas
-prácticas como por ejemplo; no mezclar el código de etiquetas con los estílos, estructuras bien el proyecto separado los componentes en carpetas, diseño 
+prácticas como por ejemplo; no mezclar el código de etiquetas con los estílos, estructurar bien el proyecto separado los componentes en carpetas, diseño 
 responsive, diseño accecible (diseño de página legible para personas con pocos recursos en cuanto a tecnología) y usable (diseño intuitivo y fácil de usar).
 Como proyecto académico para este taller realicé una web ficticia sobre una agencia inmobiliaria: https://github.com/EmaNuel-Dev2003/P-P---Web-De-Inmobiliaria
 
@@ -87,7 +87,7 @@ Como proyecto académico para este taller realicé una web ficticia sobre una ag
 Aprendí los principios de la pogramación orientada objetos trabajando con el lenguaje de programación C# en el econsistema .NET (Visual Studio Community 2022),
 realicé aplicaciones de consola, aplicaciones de escritorio (WinForms) y aplicaciones web, en donde apliqué los conceptos de encapsulación, herencia, polimorfismo,
 agregación y composición, estos mismos conceptos los aprendí conjuntamente con UML en la creación e interpretación de diagramas de clases. 
-Por otro lado, recibí un taller de objetos, en el cuál también además de los diagramas de clases, utilicé UML para crear diagramas de caso de usos, diagramas de
+Por otro lado, recibí un taller de objetos, en el cuál  además de los diagramas de clases, utilicé UML para crear diagramas de caso de usos, diagramas de
 actividades, diagrama de secuencias, diagrama de paquetes, entre otros. 
 
 #### Proyecto final integrador
