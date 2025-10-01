@@ -20,7 +20,7 @@
 ## **Studies**
 - 2022 - 2025: Instituto CEI Maldonado (Universidad Claeh) - Título: Analista Programador.
 - 2021: Instituto CEI Maldonado - Título: Operador Diseño Gráfico. 
-
+- 2015 - 2020: Secundaria completa - Bachillerato en Ciencias Sociales.
 ## **Skills**
 ### Lenguajes de programación y herramientas:
 
