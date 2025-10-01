@@ -80,9 +80,8 @@ la lógica de la programación en la resolución de problemas sencillos; aprend�
 variables, tipos de datos, listas y arrays asociativos en la creación de sistemas por consola con Nodejs. 
 
 #### Frontend (usabilidad y accecibilidad web)
-Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí cómo diseñar y estructurar una página web con HTML y CSS, haciendo uso de las buenas
-prácticas como por ejemplo; no mezclar el código de etiquetas con los estílos, estructurar bien el proyecto separado los componentes en carpetas, diseño 
-responsive, diseño accecible (diseño de página legible para personas con pocos recursos en cuanto a tecnología) y usable (diseño intuitivo y fácil de usar).
+Recibí un taller sobre accecibilidad y usabilidad, en donde aprendí a cómo diseñar y estructurar una página web con HTML y CSS, haciendo uso de las buenas
+prácticas con la finalidad de crear un diseño intuitivo para cualquier usuario, y al la vez accesible para personas con pocos recursos en cuanto a tecnología.
 Como proyecto académico para este taller realicé una web ficticia sobre una agencia inmobiliaria: https://github.com/EmaNuel-Dev2003/P-P---Web-De-Inmobiliaria
 
 #### Programación Orientada a Objetos (POO)
