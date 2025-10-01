@@ -65,9 +65,9 @@
 
 ## Academic Profile
 A lo largo de mi carrera como estudiante, aprendí  los conceptos básicos de la programación, comenzé con los diagramas de flujo y pseudocódigo para incorporar 
-la lógica de la programación en la resolución de problemas sencillos; aprendí a utilizar las estructuras condicionales (if, else if, swich case), 
-los búcles (for, for each, while, do while) y los subsistemas (funciones). Con JavaScrip (Nodejs) además de aplicar los principios ya mencionados, también 
-trabajé con variables, tipos de datos, listas y arrays asociativos en la creación de sistemas por consola. 
+la lógica de la programación en la resolución de problemas sencillos; aprendí a utilizar las estructuras condicionales (if, else if, swich case), los búcles 
+(for, for each, while, do while) y los subsistemas (funciones). Con JavaScrip (Nodejs) además de aplicar los principios ya mencionados, también trabajé con 
+variables, tipos de datos, listas y arrays asociativos en la creación de sistemas por consola. 
 <!--
 **EmaNuel-Dev2003/EmaNuel-Dev2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
