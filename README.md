@@ -16,6 +16,7 @@
 - Desarrollo backend y frontend
 - Además de programar me gusta el diseño gráfico y la edición de videos.
 - Sitio web personal: https://portafolio-web-eosin.vercel.app/
+- Contacto: isaacmeanueldev@gmail.com
 
 ## **Studies**
 - 2022 - 2025: Instituto CEI Maldonado (Universidad Claeh) - Título: Analista Programador.
