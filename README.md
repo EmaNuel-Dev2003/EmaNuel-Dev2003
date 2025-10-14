@@ -8,11 +8,11 @@
 
  ## **About me**
 
-💁 Soy una persona proactiva en busca de nuevas oportunidades laborales.
-💻 Desarrollo backend y frontend
-📹 Además de programar me gusta el diseño gráfico y la edición de videos.
-🌐 Sitio web personal: https://portafolio-web-eosin.vercel.app/
-📧 Contacto: isaacemanueldev@gmail.com
+- 💁 Soy una persona proactiva en busca de nuevas oportunidades laborales.
+- 💻 Desarrollo backend y frontend
+- 📹 Además de programar me gusta el diseño gráfico y la edición de videos.
+- 🌐 Sitio web personal: https://portafolio-web-eosin.vercel.app/
+- 📧 Contacto: isaacemanueldev@gmail.com
 
 ## **Studies**
 - 2022 - 2025: Instituto CEI Maldonado (Universidad Claeh) - Título: Analista Programador.
