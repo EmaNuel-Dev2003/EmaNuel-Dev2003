@@ -6,10 +6,9 @@
   Hi , I'm Emanuel Núñez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-# 💁
  ## **About me**
 
-- Soy una persona proactiva en busca de nuevas oportunidades laborales.
+💁 Soy una persona proactiva en busca de nuevas oportunidades laborales.
 - Desarrollo backend y frontend
 - Además de programar me gusta el diseño gráfico y la edición de videos.
 - Sitio web personal: https://portafolio-web-eosin.vercel.app/
